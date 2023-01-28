@@ -1,0 +1,47 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Zookeeper/*
+!/Zookeeper/task/
+/Zookeeper/task/*
+!/Zookeeper/task/src
+
+# Project exclude paths
+/Topics/Characters/Previous character/out/
+/Topics/Characters/Previous character/out/production/classes/
+/Topics/Data types/Fix the program/out/
+/Topics/Data types/Fix the program/out/production/classes/
+/Topics/Integers in action/Next even number/out/
+/Topics/Integers in action/Next even number/out/production/classes/
+/Topics/Integers in action/Time format/out/
+/Topics/Integers in action/Time format/out/production/classes/
+/Topics/Introduction to MutableList/Initializing a list/out/
+/Topics/Introduction to MutableList/Initializing a list/out/production/classes/
+/Topics/Introduction to MutableList/Printing the last element/out/
+/Topics/Introduction to MutableList/Printing the last element/out/production/classes/
+/Topics/Repeating blocks/Grades/out/
+/Topics/Repeating blocks/Grades/out/production/classes/
+/Topics/Standard input/Four numbers/out/
+/Topics/Standard input/Four numbers/out/production/classes/
+/Topics/Standard output/First, second, third/out/
+/Topics/Standard output/First, second, third/out/production/classes/
+/Topics/Standard output/From 0 to 9/out/
+/Topics/Standard output/From 0 to 9/out/production/classes/
+/Topics/Standard output/Print a triangle/out/
+/Topics/Standard output/Print a triangle/out/production/classes/
+/Topics/String basics/JSON/out/
+/Topics/String basics/JSON/out/production/classes/
+/Topics/String templates/Arithmetic expression/out/
+/Topics/String templates/Arithmetic expression/out/production/classes/
